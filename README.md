@@ -1,4 +1,4 @@
-# ClinNext (SaaSClinico)
+# ClinNext
 
 SaaS completo de gestão para clínicas, do backend à interface. Desenvolvido para substituir planilhas e sistemas fragmentados por um fluxo único: agendamento, prontuário, frequência, mensalidades e relatórios, com isolamento de dados por clínica.
 
@@ -41,7 +41,8 @@ loadtest/            Scripts de teste de carga
 - [RESUMO_ARQUITETURA.md](RESUMO_ARQUITETURA.md) — visão geral rápida de endpoints, fluxo de auth e estrutura
 - [ARQUITETURA_TECNICA.md](ARQUITETURA_TECNICA.md) — documentação técnica completa
 - [GUIA_PRATICO_API.md](GUIA_PRATICO_API.md) — guia de uso da API
-- [PLANO_EVOLUCAO.md](PLANO_EVOLUCAO.md) — roadmap de evolução do produto
+- [docs/RELACAO_PACIENTE_PROFISSIONAL.md](docs/RELACAO_PACIENTE_PROFISSIONAL.md) — modelagem do relacionamento paciente–profissional
+- [docs/RELATORIOS_UPLOAD.md](docs/RELATORIOS_UPLOAD.md) — sistema de upload e gestão de relatórios
 
 ## Rodando localmente
 
